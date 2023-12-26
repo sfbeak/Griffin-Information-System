@@ -7,7 +7,6 @@
     "pages/MainPage",
     "pages/NotesDetail",
     "pages/ViewNotesDetail",
-    "pages/NotesView",
     "pages/Register",
     "pages/Settings"
   ]
