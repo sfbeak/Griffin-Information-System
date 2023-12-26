@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/About",
+    "pages/Forget",
+    "pages/Invite",
+    "pages/Login",
+    "pages/MainPage",
+    "pages/NotesDetail",
+    "pages/ViewNotesDetail",
+    "pages/NotesView",
+    "pages/Register",
+    "pages/Settings"
+  ]
+}

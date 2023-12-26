@@ -1,0 +1,240 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NotePadOHETS"
+    },
+    {
+      "name": "media_permission_reason",
+      "value": "App needs media permission to display Cloud Storage Features."
+    },
+    {
+      "name": "mine_title",
+      "value": "Mine"
+    },
+    {
+      "name": "notes_all",
+      "value": "All notes"
+    },
+    {
+      "name": "notes_longterm",
+      "value": "Longterm"
+    },
+    {
+      "name": "notes_battle",
+      "value": "Battle"
+    },
+    {
+      "name": "notes_article",
+      "value": "Article"
+    },
+    {
+      "name": "notes_newworld",
+      "value": "NewWorld"
+    },
+    {
+      "name": "notes_personal",
+      "value": "Personal"
+    },
+    {
+      "name": "notes_outofGIS",
+      "value": "outofGIS"
+    },
+    {
+      "name": "back_text",
+      "value": "back"
+    },
+    {
+      "name": "note_title_placeholder",
+      "value": "Input Title"
+    },
+    {
+      "name": "note_content_placeholder",
+      "value": "Input content"
+    },
+    {
+      "name": "share_note",
+      "value": "share"
+    },
+    {
+      "name": "collect_note",
+      "value": "collect"
+    },
+    {
+      "name": "delete_note",
+      "value": "delete"
+    },
+    {
+      "name": "save_update",
+      "value": "Whether to save modification"
+    },
+    {
+      "name": "delete_update",
+      "value": "Whether to delete"
+    },
+    {
+      "name": "cancel_txt",
+      "value": "Cancel"
+    },
+    {
+      "name": "delete_txt",
+      "value": "Delete"
+    },
+    {
+      "name": "confirm_txt",
+      "value": "Save"
+    },
+    {
+      "name": "login_page",
+      "value": "Login page"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "login",
+      "value": "Log in"
+    },
+    {
+      "name": "register_account",
+      "value": "Registering an Account"
+    },
+    {
+      "name": "forgot_password",
+      "value": "Forgot Password"
+    },
+    {
+      "name": "message_login",
+      "value": "SMS verification code login"
+    },
+    {
+      "name": "other_login_method",
+      "value": "Other login methods"
+    },
+    {
+      "name": "vertical_line",
+      "value": "  |  "
+    },
+    {
+      "name": "input_empty_tips",
+      "value": "The input cannot be empty."
+    },
+    {
+      "name": "login_success",
+      "value": "The login is successful."
+    },
+    {
+      "name": "setting_account_name",
+      "value": "Press to login"
+    },
+    {
+      "name": "setting_admin",
+      "value": "admin"
+    },
+    {
+      "name": "setting_invitation_code",
+      "value": "Invitation Code"
+    },
+    {
+      "name": "setting_check_update",
+      "value": "Check Update"
+    },
+    {
+      "name": "setting_list_menu",
+      "value": "Menu Settings"
+    },
+    {
+      "name": "setting_list_about",
+      "value": "About"
+    },
+    {
+      "name": "setting_list_storage",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "setting_button",
+      "value": "Logout"
+    },
+    {
+      "name": "set_size_small",
+      "value": "Small"
+    },
+    {
+      "name": "set_size_normal",
+      "value": "Normal"
+    },
+    {
+      "name": "set_size_large",
+      "value": "Large"
+    },
+    {
+      "name": "set_size_extra_large",
+      "value": "Extra large"
+    },
+    {
+      "name": "set_size_huge",
+      "value": "Huge"
+    },
+    {
+      "name": "set_font_size",
+      "value": "Text size"
+    },
+    {
+      "name": "set_char_a",
+      "value": "A"
+    },
+    {
+      "name": "empty",
+      "value": "empty"
+    },
+    {
+      "name": "set_title",
+      "value": "Font size settings"
+    },
+    {
+      "name": "set_chat_content1",
+      "value": "Did you know that you can now clock in a variety of health goals for healthy living?"
+    },
+    {
+      "name": "set_chat_content2",
+      "value": "Yes, I added exercise and diet related goals."
+    },
+    {
+      "name": "set_chat_content3",
+      "value": "That's great. How do you feel?"
+    },
+    {
+      "name": "set_chat_content4",
+      "value": "Life is getting better and better, you have a try!"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "title_immersive",
+      "value": "Today's delicious food"
+    },
+    {
+      "name": "detail_immersive",
+      "value": "A bowl of fragrant fried noodles, back to childhood memories"
+    }
+  ]
+}

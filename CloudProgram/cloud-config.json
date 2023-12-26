@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "5765880207853308253",
+    "appName": "GIS留言板",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 1,
+    "packageType": 7,
+    "projectId": "388421841221868064",
+    "projectName": "GIS留言板",
+    "siteId": "CN"
+  },
+  "teamId": "220086000132583531"
+}
